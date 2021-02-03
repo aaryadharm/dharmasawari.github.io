@@ -1,2 +1,2 @@
 # dharmasawari.github.io
-My Class Website
+My Portfolio and Class Website
