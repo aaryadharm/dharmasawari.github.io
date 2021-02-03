@@ -1,0 +1,36 @@
+@font-face{
+    font-family:now regular;
+    font-style:normal;
+    font-weight:400;
+    src:local('Now Regular'),url(../fonts/Now-Regular.woff) format('woff')
+}
+@font-face{
+    font-family:now thin;
+    font-style:normal;
+    font-weight:400;
+    src:local('Now Thin'),url(../fonts/Now-Thin.woff) format('woff')
+}
+@font-face{
+    font-family:now light;
+    font-style:normal;
+    font-weight:400;
+    src:local('Now Light'),url(../fonts/Now-Light.woff) format('woff')
+}
+@font-face{
+    font-family:now medium;
+    font-style:normal;
+    font-weight:400;
+    src:local('Now Medium'),url(../fonts/Now-Medium.woff) format('woff')
+}
+@font-face{
+    font-family:now bold;
+    font-style:normal;
+    font-weight:400;
+    src:local('Now Bold'),url(../fonts/Now-Bold.woff) format('woff')
+}
+@font-face{
+    font-family:now black;
+    font-style:normal;
+    font-weight:400;
+    src:local('Now Black'),url(../fonts/Now-Black.woff) format('woff')
+}
